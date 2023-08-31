@@ -1,4 +1,4 @@
- 👋 Hi, I’m @Ananya Roy 
+ 👋 Hi, I’m Ananya Roy 
 -  I’m interested in Web Development
 -  Also I am a MERN stack web developer
 
