@@ -41,18 +41,8 @@ I'm a passionate **MERN Stack Developer** who enjoys building responsive, scalab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnanyaRoy478&show_icons=true&theme=tokyonight" alt="Ananya's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnanyaRoy478&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaRoy478&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
