@@ -52,9 +52,7 @@ I'm a passionate **MERN Stack Developer** who enjoys building responsive, scalab
 
 ## 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaRoy478&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaRoy478&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
